@@ -376,10 +376,10 @@ https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/2872151911
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1 (2)
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 10
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
@@ -748,10 +748,10 @@ https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/1527236924
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -1236,8 +1236,6 @@ https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://vavoo.to/play/2989824407
 
 #EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
 http://example.com/Soccer.m3u8
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Lecce vs Napoli - 03/05/2025 18:00" group-title="Eventi" tvg-logo="", Italy - Serie A : Lecce vs Napoli - 03/05/2025 18:00
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Arsenal vs AFC Bournemouth - 03/05/2025 18:30" group-title="Eventi" tvg-logo="", England - Premier League : Arsenal vs AFC Bournemouth - 03/05/2025 18:30
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="3" tvg-name="Bundesliga : Borussia Dortmund vs Wolfsburg - 03/05/2025 18:30" group-title="Eventi" tvg-logo="", Bundesliga : Borussia Dortmund vs Wolfsburg - 03/05/2025 18:30
@@ -1250,10 +1248,6 @@ https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/pre
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-name="----- Motorsport -----" group-title="Eventi", ----- Motorsport -----
 http://example.com/Motorsport.m3u8
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : crypto.com Miami Grand Prix - Sprint Grid - 03/05/2025 17:00" group-title="Eventi" tvg-logo="", Formula 1 : crypto.com Miami Grand Prix - Sprint Grid - 03/05/2025 17:00
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : crypto.com Miami Grand Prix - Sprint - 03/05/2025 18:00" group-title="Eventi" tvg-logo="", Formula 1 : crypto.com Miami Grand Prix - Sprint - 03/05/2025 18:00
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : crypto.com Miami Grand Prix - Qualifying - 03/05/2025 22:00" group-title="Eventi" tvg-logo="", Formula 1 : crypto.com Miami Grand Prix - Qualifying - 03/05/2025 22:00
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-name="----- Snooker -----" group-title="Eventi", ----- Snooker -----
@@ -1264,10 +1258,6 @@ https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/p
 http://example.com/Basketball.m3u8
 #EXTINF:-1 tvg-id="879" tvg-name="Lega A : Aquila Basket Trento vs. Pallacanestro Reggiana - 03/05/2025 20:00" group-title="Eventi" tvg-logo="", Lega A : Aquila Basket Trento vs. Pallacanestro Reggiana - 03/05/2025 20:00
 https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-name="----- Volleyball -----" group-title="Eventi", ----- Volleyball -----
-http://example.com/Volleyball.m3u8
-#EXTINF:-1 tvg-id="462" tvg-name="Champions League Women : Vakifbank SK vs. Pallavolo Scandicci - 03/05/2025 18:00" group-title="Eventi" tvg-logo="", Champions League Women : Vakifbank SK vs. Pallavolo Scandicci - 03/05/2025 18:00
-https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
