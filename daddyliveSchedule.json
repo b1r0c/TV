@@ -5416,6 +5416,141 @@
                 "time": "17:30",
                 "event": "Challenger - Porto Alegre (BRA) : Nikolas Sanchez Izquierdo vs Alex Barrena",
                 "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UTR Newport Beach M06 : Antreas Djakouris vs Aleksa Ciric",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UTR Newport Beach M06 : Maciej Rajski vs Santiago Perez",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UTR (M) - Manzanillo (MEX) : Eduardo Yahir Orozco Rangel vs Nicolas Buitrago",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UTR (M) - Manzanillo (MEX) : Mauricio Echazu vs Dillon Beckles",
+                "channels": []
+            },
+            {
+                "time": "19:10",
+                "event": "UTR Newport Beach M06 : David Martirosian vs Alessandro-Damiano Ventre",
+                "channels": []
+            },
+            {
+                "time": "19:10",
+                "event": "UTR Newport Beach M06 : Mohammad Alkotop vs Roman Venger",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "UTR Manzanillo M04 : Patricio Alvarado vs Manuel Sanchez",
+                "channels": []
+            },
+            {
+                "time": "20:10",
+                "event": "UTR Manzanillo M04 : Peter Bertran vs David Duong",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "UTR (M) - Newport Beach (USA) : Harrison Satara vs Maximilian Wuelfing",
+                "channels": []
+            },
+            {
+                "time": "21:20",
+                "event": "UTR (M) - Manzanillo (MEX) : Jesus Martinez vs Carlos Ernesto Trujillo",
+                "channels": []
+            },
+            {
+                "time": "22:10",
+                "event": "UTR Newport Beach M06 : Adam Chodur vs Emmanuel Alex",
+                "channels": []
+            },
+            {
+                "time": "22:10",
+                "event": "UTR (M) - Newport Beach (USA) : Cayden Wang vs Jacopo Denitto",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (F) - Kawaguchi (JAP) : Ayana Yaguchi vs Sayuri Hata",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : Kenta Nakamura vs Ryuichiro Nakano",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : Kotaro Mochizuki vs Jaden Dewandaka Tan",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : Masaya Kobayashi vs Ko Nagashima",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (F) - Kawaguchi (JAP) : Michiru Furuya vs Azusa Ishii",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (F) - Kawaguchi (JAP) : Shiho Tsujioka vs Miyu Nakashima",
+                "channels": []
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (F) - Kawaguchi (JAP) : Ran Inaba vs Ichino Horikawa",
+                "channels": []
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (M) - Kawaguchi (JAP) : Ryota Tanuma vs Yoshinori Kobayashi",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "Challenger - Wuxi (CHN) - Qualifiers : Moerani Bouzige vs Ramkumar Ramanathan",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "Challenger - Wuxi (CHN) - Qualifiers : Sheng Tang vs Egor Agafonov",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "Challenger - Wuxi (CHN) - Qualifiers : Yuki Mochizuki vs Ye Cong Mo",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "Challenger - Guangzhou (CHN) : Tristan Schoolkate vs Terence Atmane",
+                "channels": []
+            },
+            {
+                "time": "04:10",
+                "event": "Challenger - Wuxi (CHN) - Qualifiers : Hiroki Moriya vs Zhe Li",
+                "channels": []
+            },
+            {
+                "time": "04:10",
+                "event": "Challenger - Wuxi (CHN) - Qualifiers : Kasidit Samrej vs Mitsuki Wei K.Leong",
+                "channels": []
+            },
+            {
+                "time": "04:10",
+                "event": "Challenger - Wuxi (CHN) - Qualifiers : Pengyu Lu vs Yusuke Takahashi",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -5676,7 +5811,12 @@
             {
                 "time": "15:30",
                 "event": "IndyCar Racing Children's Of Alabama Indy Grand Prix, Practice",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "39"
+                    }
+                ]
             },
             {
                 "time": "16:00",
