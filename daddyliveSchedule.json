@@ -160,6 +160,16 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "NHL Draft Lottery Live",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
                 "time": "23:30",
                 "event": "Family Feud Season 26, Episode 157",
                 "channels": [
@@ -2525,7 +2535,7 @@
                     },
                     {
                         "channel_name": "YES USA",
-                        "channel_id": "463"
+                        "channel_id": "763"
                     },
                     {
                         "channel_name": "MLB Network USA",
