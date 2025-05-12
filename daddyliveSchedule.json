@@ -526,9 +526,33 @@
                 "channels": []
             },
             {
+                "time": "14:10",
+                "event": "UAE Pro League : Dibba Al Hisn vs Al Wahda",
+                "channels": [
+                    {
+                        "channel_name": "Abu Dhabi Sports 1",
+                        "channel_id": "600"
+                    }
+                ]
+            },
+            {
+                "time": "14:10",
+                "event": "UAE Pro League : Bani Yas vs Khor",
+                "channels": [
+                    {
+                        "channel_name": "Abu Dhabi Sports 2",
+                        "channel_id": "601"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "Africa U-20 Cup of Nations : Morocco U20 vs Sierra Leone U20",
                 "channels": [
+                    {
+                        "channel_name": "ONTime Sports",
+                        "channel_id": "24"
+                    },
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
@@ -536,6 +560,20 @@
                     {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
                         "channel_id": "372"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 8",
+                        "channel_id": "98"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Africa U-20 Cup of Nations : Ghana U20 vs Egypt U20",
+                "channels": [
+                    {
+                        "channel_name": "ONTime Sports 2",
+                        "channel_id": "25"
                     },
                     {
                         "channel_name": "beIN Sports MENA 6",
@@ -572,6 +610,16 @@
                     {
                         "channel_name": "Arena Sport 3 Croatia",
                         "channel_id": "434"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "Slovenia - Druga Liga : Aluminij vs Brinje Grosuplje",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub Poland",
+                        "channel_id": "26"
                     }
                 ]
             },
@@ -928,6 +976,10 @@
                     {
                         "channel_name": "Sharjah Sports",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Abu Dhabi Sports 1",
+                        "channel_id": "600"
                     }
                 ]
             },
@@ -962,12 +1014,12 @@
                 ]
             },
             {
-                "time": "17:50",
-                "event": "Africa - Africa Cup of Nations : 1st C vs 3rd A/",
+                "time": "18:00",
+                "event": "Netherlands - Eredivisie : Den Bosch vs Cambuur",
                 "channels": [
                     {
-                        "channel_name": "beIN Sports MENA 6",
-                        "channel_id": "96"
+                        "channel_name": "ESPN 1 NL",
+                        "channel_id": "379"
                     }
                 ]
             },
@@ -1011,7 +1063,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Africa U-20 Cup of Nations : TBD vs Congo DR U20",
+                "event": "Africa U-20 Cup of Nations : South Africa U20 vs Congo DR U20",
                 "channels": [
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -1020,6 +1072,10 @@
                     {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
                         "channel_id": "372"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 6",
+                        "channel_id": "96"
                     }
                 ]
             },
@@ -1294,6 +1350,16 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Morocco - Botola Pro : Chabab Mohamm\u00e9dia vs Raja Casablanca",
+                "channels": [
+                    {
+                        "channel_name": "Arryadia",
+                        "channel_id": "19"
                     }
                 ]
             },
@@ -2621,12 +2687,22 @@
                 ]
             },
             {
-                "time": "15:20",
-                "event": "Men's basketball: ORLEN Basket League play-in phase match",
+                "time": "15:30",
+                "event": "Polish Basketball League : Slask Wroclaw vs Torun",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport Poland",
                         "channel_id": "47"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "Hungary NB I : Szolnoki Olaj Kk vs. Atomeromu SE",
+                "channels": [
+                    {
+                        "channel_name": "M4 Sport Hungary",
+                        "channel_id": "265"
                     }
                 ]
             },
@@ -2883,6 +2959,18 @@
                     {
                         "channel_name": "PDC.TV",
                         "channel_id": "43"
+                    }
+                ]
+            }
+        ],
+        "Futsal</span>": [
+            {
+                "time": "18:00",
+                "event": "Croatia HMNL : Mnk Novo Vrijeme Makarska vs. Mnk Crnica",
+                "channels": [
+                    {
+                        "channel_name": "Max Sport 1 Croatia HD",
+                        "channel_id": "779"
                     }
                 ]
             }
