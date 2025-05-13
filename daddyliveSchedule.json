@@ -4666,6 +4666,10 @@
                     {
                         "channel_name": "Arena Sport 7 Serbia",
                         "channel_id": "942"
+                    },
+                    {
+                        "channel_name": "Sport Klub 7 Croatia",
+                        "channel_id": "159"
                     }
                 ]
             },
@@ -7376,7 +7380,7 @@
                         "channel_id": "941"
                     },
                     {
-                        "channel_name": "JOJ \u0160port Slovakia",
+                        "channel_name": "JOJ TV Slovakia",
                         "channel_id": "21"
                     }
                 ]
@@ -7474,7 +7478,7 @@
                         "channel_id": "4"
                     },
                     {
-                        "channel_name": "JOJ \u0160port Slovakia",
+                        "channel_name": "JOJ TV Slovakia",
                         "channel_id": "21"
                     },
                     {
