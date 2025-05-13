@@ -3884,6 +3884,41 @@
                 ]
             },
             {
+                "time": "08:00",
+                "event": "China - League 2 - South : Guangdong Mingtu vs Ganzhou Ruishi FC",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Australia - Cup : Central Coast Mariners vs Perth Glory",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Australia - NPL - Queensland : Gold Coast United vs Brisbane U23",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Australia - NPL - NSW - North : Edgeworth Eagles vs Weston Workers Bears",
+                "channels": []
+            },
+            {
+                "time": "11:45",
+                "event": "Singapore - Premier League : Tanjong Pagar United vs Hougang United",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "EAU - Pro League : Al Jazira vs Al Bataeh",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "EAU - Pro League : Al Urooba vs Al Wasl",
+                "channels": []
+            },
+            {
                 "time": "14:45",
                 "event": "Bulgaria - Parva Liga : Cherno More vs Ludogorets",
                 "channels": [
@@ -3908,6 +3943,11 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Estonia - Cup : Tallinna Kalev vs Nomme Kalju",
+                "channels": []
+            },
+            {
                 "time": "16:30",
                 "event": "Romania - Liga II : SCM Arge\u015ful Pite\u015fti vs Voluntari",
                 "channels": [
@@ -3916,6 +3956,21 @@
                         "channel_id": "400"
                     }
                 ]
+            },
+            {
+                "time": "16:45",
+                "event": "Netherlands - Eredivisie - Baraj : Telstar vs ADO Den Haag",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "EAU - Pro League : Ajman vs Ittihad Kalba",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "EAU - Pro League : Al Nasr Dubai vs Shabab Al Ahli",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -4434,6 +4489,11 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "Ecuador - Serie B : Independiente Juniors vs Gualaceo",
+                "channels": []
+            },
+            {
                 "time": "21:00",
                 "event": "Campeonato Brasileiro De Futebol Sub-20 : Botafogo vs Fluminense",
                 "channels": [
@@ -4542,6 +4602,21 @@
                         "channel_id": "150"
                     }
                 ]
+            },
+            {
+                "time": "22:00",
+                "event": "Colombia - Primera B - Apertura : Deportes Quindio vs Orsomarso",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Copa Sudamericana - Gr.D : Sportivo Luqueno vs Atletico Grau",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Ecuador - Serie B : Chacaritas vs 22 de Julio",
+                "channels": []
             },
             {
                 "time": "00:30",
@@ -5900,6 +5975,11 @@
                 ]
             },
             {
+                "time": "15:30",
+                "event": "Lithuania - LKL : Rytas Vilnius vs BC Siauliai",
+                "channels": []
+            },
+            {
                 "time": "15:40",
                 "event": "Israeli National League Basketball : Maccabi Rishon vs Elizur Ashkelon",
                 "channels": [
@@ -5968,6 +6048,11 @@
                 ]
             },
             {
+                "time": "17:45",
+                "event": "WASL Final 8 - Gr.B : Al Qadsiya vs Shabab Al-Ahli",
+                "channels": []
+            },
+            {
                 "time": "18:00",
                 "event": "Bundesliga: Play-In B",
                 "channels": [
@@ -5976,6 +6061,66 @@
                         "channel_id": "103"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : ALM Evreux vs SPO Rouen",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Antibes Sharks vs EB Pau Orthez",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Blois vs Saint Chamond",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Boulazac vs UB Chartres",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Caen Calvados vs Orleans Loiret",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Chalons Reims vs ASA",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Denain Voltaire vs Aix Maurienne Savoie",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Fos Provence vs Roanne",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Hermine Nantes vs Poitiers 86",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Italy - Serie B - Playout : Latina vs Fiorenzuola",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Italy - Serie B - Playoff : Rucker Sanve San Vendemiano vs ASD Pielle Livorno",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "French - LNB Pro B : Vichy Clermont vs Hyeres Toulon",
+                "channels": []
             },
             {
                 "time": "18:15",
@@ -5990,6 +6135,76 @@
                         "channel_id": "101"
                     }
                 ]
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie A2 - Playoff : Cividale vs Forli",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie B - Playoff : Legnano vs LUISS Roma",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie B - Playoff : Montecatini vs Mestre",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy - Serie A2 - Playoff : Rimini vs Brindisi",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Italy - Serie B - Playoff : Roseto vs Rekico Faenza",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Italy - Serie B - Playoff : Treviglio Brianza vs Jesi Academy",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Italy - Serie B - Playout : Aurora Desio vs NPC Rieti",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Italy - Serie B - Playoff : Capo D.Orlando vs Virtus Roma 1960",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Italy - Serie A2 - Playout : Libertas Livorno vs Vigevano",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Italy - Serie B - Playout : Solbat Golfo Piombino vs Virtus Kleb Ragusa",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Italy - Serie B - Playoff : Talos Ruvo di Puglia vs Fulgor Fidenza",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Brazil - NBB - Playoff : Franca vs Pinheiros",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "Brazil - NBB - Playoff : Flamengo vs Corinthians SP",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Argentina - LLA : Racing de Chivilcoy vs Sportivo Suardi",
+                "channels": []
             },
             {
                 "time": "23:00",
