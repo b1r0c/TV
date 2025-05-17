@@ -4616,19 +4616,19 @@
             },
             {
                 "time": "17:00",
-                "event": "The Way of Warrior FC : WOW 19: Alicante",
+                "event": "Octagon 71",
                 "channels": [
                     {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "163"
+                        "channel_name": "PPV Feed",
+                        "channel_id": "151"
                     },
                     {
-                        "channel_name": "Movistar Deportes 2 Spain",
-                        "channel_id": "438"
+                        "channel_name": "RMC Sport 2 France",
+                        "channel_id": "120"
                     },
                     {
-                        "channel_name": "M+ Vamos Spain",
-                        "channel_id": "521"
+                        "channel_name": "Cosmote Sport 6 Greece",
+                        "channel_id": "627"
                     }
                 ]
             },
@@ -4644,19 +4644,19 @@
             },
             {
                 "time": "18:30",
-                "event": "Octagon 71",
+                "event": "The Way of Warrior FC : WOW 19: Alicante",
                 "channels": [
                     {
-                        "channel_name": "PPV Feed",
-                        "channel_id": "151"
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "163"
                     },
                     {
-                        "channel_name": "RMC Sport 2 France",
-                        "channel_id": "120"
+                        "channel_name": "Movistar Deportes 2 Spain",
+                        "channel_id": "438"
                     },
                     {
-                        "channel_name": "Cosmote Sport 6 Greece",
-                        "channel_id": "627"
+                        "channel_name": "M+ Vamos Spain",
+                        "channel_id": "521"
                     }
                 ]
             },
@@ -7149,8 +7149,8 @@
                 "event": "United Rugby Championship : Sharks vs Scarlets",
                 "channels": [
                     {
-                        "channel_name": "Viaplay Sports 2 UK",
-                        "channel_id": "550"
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
                     },
                     {
                         "channel_name": "S4C UK",
