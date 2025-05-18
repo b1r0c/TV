@@ -1,5 +1,107 @@
 {
     "Sunday 18th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "TNT IGNition: Aftershock 2022",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "2025 NASCAR Whelen Modified Tour at North Wilkesboro Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ICW: We Run This Town 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "2025 Super Late Model Season Opener at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "A7FL 2025 Game of the Week: QC Crush vs East Orange Renegades",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "GCW: Run For It 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 IRA Sprints at Angell Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Wrestling Revolver: Let Us Cook 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Husets Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
