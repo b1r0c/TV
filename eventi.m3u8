@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
+http://example.com/Soccer.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Crystal Palace vs Wolverhampton Wanderers - 20/05/2025 21:00" group-title="Eventi" tvg-logo="", England - Premier League : Crystal Palace vs Wolverhampton Wanderers - 20/05/2025 21:00
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="461" tvg-name="England - Premier League : Manchester City vs AFC Bournemouth - 20/05/2025 21:00" group-title="Eventi" tvg-logo="", England - Premier League : Manchester City vs AFC Bournemouth - 20/05/2025 21:00
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Basketball -----" group-title="Eventi", ----- Basketball -----
+http://example.com/Basketball.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="Lega A : Virtus Bologna vs. Reyer Venezia - 20/05/2025 20:30" group-title="Eventi" tvg-logo="", Lega A : Virtus Bologna vs. Reyer Venezia - 20/05/2025 20:30
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="879" tvg-name="Lega A : Virtus Bologna vs. Reyer Venezia - 20/05/2025 20:30" group-title="Eventi" tvg-logo="", Lega A : Virtus Bologna vs. Reyer Venezia - 20/05/2025 20:30
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Cycling -----" group-title="Eventi", ----- Cycling -----
+http://example.com/Cycling.m3u8
+#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 10 | Multi-Screen Men | Lucca – Pisa (ITT, 28.6km) - 20/05/2025 14:00" group-title="Eventi" tvg-logo="", Giro d'Italia | Stage 10 | Multi-Screen Men | Lucca – Pisa (ITT, 28.6km) - 20/05/2025 14:00
+https://tvproxy-fycj.onrender.com/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
