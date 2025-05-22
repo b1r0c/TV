@@ -3181,6 +3181,14 @@
                         "channel_id": "114"
                     },
                     {
+                        "channel_name": "TV6 Sweden",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "TV3 Max Denmark",
+                        "channel_id": "223"
+                    },
+                    {
                         "channel_name": "RSI La 2",
                         "channel_id": "26"
                     },
@@ -3205,6 +3213,10 @@
                     {
                         "channel_name": "NHL Network USA",
                         "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TV3+ Denmark",
+                        "channel_id": "819"
                     },
                     {
                         "channel_name": "TSN1",
